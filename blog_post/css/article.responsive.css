@@ -1,0 +1,527 @@
+@media all and (max-width: 1440px) {
+  #slide1-fleche-gauche
+  {
+    top: 450px;
+    left: -220px;
+  }
+  #slide1-fleche-droite
+  {
+    top: 450px;
+    right: -220px;
+  }
+}
+@media all and (max-width: 1024px) {
+  .wrap
+  {
+    width: 85%;
+  }
+  header > p:first-of-type
+  {
+    padding-top: 60px;
+  }
+  header > h1
+  {
+    padding-top: 10px;
+  }
+  header > p:last-of-type
+  {
+    font-size: 0.88em;
+    padding-top: 50px;
+    padding-bottom: 120px;
+  }
+  .conteneur-slide1
+  {
+
+  }
+  #slide1-fleche-gauche
+  {
+    top: 236px;
+    left: -38px;
+  }
+  #slide1-fleche-droite
+  {
+    top: 236px;
+    right: -38px;
+  }
+  .slide-container
+  {
+    width: 640px;
+  }
+  .slider-image
+  {
+    width: 640px;
+  }
+  .texte_02 > .gauche > p
+  {
+    font-size: 0.78em;
+  }
+  .texte_02 > .droite
+  {
+    font-size: 0.75em;
+    line-height: 30px;
+  }
+  .citation > p
+  {
+    font-size: 1.1em;
+    line-height: 30px;
+    margin: 38px 38px;
+  }
+  .texte_03
+  {
+    font-size: 0.75em;
+    padding-top: 65px;
+    padding-bottom: 65px;
+  }
+  .conteneur-slide2
+  {
+    margin-bottom: 75px;
+  }
+  aside > .conteneur-header-com > .nbCom
+  {
+    font-size: 0.65em;
+  }
+  aside > .conteneur-com
+  {
+    width: 80%;
+  }
+  aside > .conteneur-com > .com_01 > .conteneur-com-texte > p:nth-of-type(2)
+  {
+    font-size: 0.72em;
+  }
+  aside > .conteneur-com > .com_01 > .conteneur-pdp > img
+  {
+    width: 50px;
+  }
+  aside > .conteneur-com .rep > .conteneur-pdp > img
+  {
+    width: 47px;
+  }
+  .ajouter-com > .ajouter-com-pdp > img
+  {
+    width: 55px;
+  }
+  .texte_02
+  {
+    padding-bottom: 80px;
+  }
+}
+@media all and (max-width: 700px) {
+  .slide-container
+  {
+    width: 500px;
+  }
+  .slider-image
+  {
+    width: 500px;
+  }
+  aside > .conteneur-header-com > .nbCom
+  {
+    padding-left: 2%;
+  }
+  aside > .conteneur-header-com > .social
+  {
+    padding-right: 2%;
+  }
+  aside > .conteneur-com > .com_01 > .conteneur-pdp > img
+  {
+    width: 45px;
+  }
+  aside > .conteneur-com .rep > .conteneur-pdp > img
+  {
+    width: 42px;
+  }
+  .ajouter-com > .ajouter-com-pdp > img
+  {
+    width: 50px;
+  }
+  .texte_03
+  {
+    line-height: 27px;
+  }
+  aside > .conteneur-com > .com_01 > .conteneur-com-texte > h3
+  {
+    font-size: 0.7em;
+  }
+  .ajouter-com > .ajouter-com-texte > textarea
+  {
+    font-size: 0.73em;
+  }
+  .ajouter-com > .ajouter-com-texte > h3
+  {
+    font-size: 0.74em;
+  }
+  header > h1
+  {
+    font-size: 2em;
+  }
+  header > p:last-of-type
+  {
+    font-size: 0.8em;
+    padding-bottom: 80px;
+  }
+  .texte_02
+  {
+    padding-bottom: 50px;
+  }
+  .citation
+  {
+    width: 100%;
+  }
+  .texte_02 > .gauche
+  {
+    width: 28%;
+  }
+}
+@media all and (max-width: 590px) {
+  .slide-container
+  {
+    width: 340px;
+  }
+  .slider-image
+  {
+    width: 340px;
+  }
+  .cpt-slide
+  {
+    font-size: 0.68em;
+  }
+  .button-container
+  {
+    top: -24px;
+    right: 10px;
+  }
+  #fleche-gauche
+  {
+    width: 17px;
+  }
+  #fleche-droite
+  {
+    width: 17px;
+  }
+  aside > .conteneur-com > .com_01 > .conteneur-com-texte
+  {
+    margin-left: 15px;
+  }
+  .conteneur-slide2
+  {
+    margin-bottom: 40px;
+  }
+  .texte_03
+  {
+    padding-bottom: 40px;
+    padding-top: 45px;
+  }
+  .citation > p
+  {
+    font-size: 0.96em;
+    line-height: 26px;
+    margin: 23px 23px;
+  }
+  .conteneur-slide1
+  {
+
+  }
+  .flickity-page-dots
+  {
+    bottom: 20px;
+  }
+  footer > .portrait
+  {
+    margin-right: 30px;
+  }
+  .pdp-auteur
+  {
+    width: 55px;
+  }
+  footer > .portrait > h3
+  {
+    font-size: 0.75em;
+  }
+  footer > .portrait > h4
+  {
+    font-size: 0.75em;
+  }
+  footer > .biographie
+  {
+    font-size: 0.77em;
+  }
+  footer
+  {
+    padding-top: 40px;
+    padding-bottom: 60px;
+  }
+  .reseau-api
+  {
+    width: 70px;
+  }
+  aside > .conteneur-com
+  {
+    padding-bottom: 60px;
+  }
+  .ajouter-com > .ajouter-com-texte > input
+  {
+    width: 104px;
+    height: 37px;
+  }
+  .slider-image
+  {
+    width: 350px;
+  }
+  .slide-container
+  {
+    width: 350px;
+  }
+  .portrait
+  {
+    margin-top: 15px;
+  }
+  header > h1
+  {
+    font-size: 1.6em;
+    line-height: 40px;
+  }
+  header > .audience
+  {
+    font-size: 0.62em;
+    padding-top: 14px;
+    letter-spacing: 0.14em;
+  }
+  header > .audience img:first-of-type
+  {
+    width: 14px;
+  }
+  header > .audience img:nth-of-type(2)
+  {
+    width: 11px;
+    transform: translateY(-1.5px);
+  }
+  header > p:last-of-type
+  {
+    line-height: 30px;
+    font-size: 0.74em;
+    width: 90%;
+    padding-bottom: 55px;
+  }
+  .conteneur-slide1
+  {
+
+  }
+  .texte_02
+  {
+    padding-bottom: 30px;
+    width: 100%;
+  }
+  .texte_02 > .droite
+  {
+    font-size: 0.74em;
+    line-height: 25px;
+  }
+  .texte_02 > .gauche > h3
+  {
+    font-size: 0.65em;
+  }
+  .texte_02 > .gauche > p
+  {
+    font-size: 0.76em;
+    line-height: 24px;
+  }
+  .citation p
+  {
+    font-size: 0.9em;
+    line-height: 24px;
+    margin: 20px 20px;
+  }
+  .texte_03 .gauche
+  {
+    width: 50%;
+    margin-right: 40px;
+  }
+  .texte_03 .droite
+  {
+    width: 50%;
+  }
+  footer > .biographie
+  {
+    font-size: 0.71em;
+  }
+  .conteneur-slide1
+  {
+  }
+  .flickity-prev-next-button
+  {
+    width: 30px;
+    height: 30px;
+  }
+  .flickity-page-dots .dot.is-selected
+  {
+    width: 6px;
+    height: 6px;
+    transform: translateY(1px);
+  }
+  .flickity-page-dots .dot
+  {
+    width: 4px;
+    height: 4px;
+  }
+}
+@media all and (max-width: 424px) {
+  aside > .conteneur-header-com > .social
+  {
+    width: 60%;
+  }
+  aside > .conteneur-header-com > .nbCom
+  {
+    width: 31%;
+  }
+  aside > .conteneur-header-com > .nbCom > h3
+  {
+    font-size: 1em;
+  }
+  aside > .conteneur-header-com > .nbCom > h3 > span
+  {
+    width: 17px;
+    height: 17px;
+    transform: translateX(-50%) translateY(-18%);
+  }
+  aside > .conteneur-header-com > .nbCom > h3 > span > h4
+  {
+    transform: translateY(31%) translateX(7%);
+  }
+  aside > .conteneur-header-com > .nbCom
+  {
+    padding-left: 4%;
+  }
+  aside > .conteneur-com
+  {
+    padding-top: 0px;
+  }
+  .conteneur-slide1
+  {
+
+  }
+  .texte_02
+  {
+    flex-wrap: wrap;
+    width: 85%;
+  }
+  .texte_02 .gauche
+  {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .texte_02 .gauche p
+  {
+    font-size: 0.73em;
+  }
+  .texte_02 .droite
+  {
+    width: 100%;
+    font-size: 0.69em;
+  }
+  .texte_02 .droite p:first-of-type
+  {
+    margin-bottom: 10px;
+  }
+  .citation p
+  {
+    font-size: 0.8em;
+    line-height: 20px;
+    margin: 10px 10px;
+  }
+  .texte_03
+  {
+    padding-top: 30px;
+    flex-wrap: wrap;
+    font-size: 0.69em;
+  }
+  .texte_03 .gauche
+  {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  .texte_03 .droite
+  {
+    width: 100%;
+    margin-right: 0;
+  }
+  aside > .conteneur-com
+  {
+    margin-top: 30px;
+  }
+  aside > .conteneur-com > .com_01 > .conteneur-pdp > img
+  {
+    width: 40px;
+  }
+  aside > .conteneur-com .rep > .conteneur-pdp > img
+  {
+    width: 38px;
+  }
+  aside > .conteneur-com > .com_01 > .conteneur-com-texte
+  {
+    margin-left: 20px;
+  }
+  .ajouter-com > .ajouter-com-pdp > img
+  {
+    width: 42px;
+  }
+  .slide-container
+  {
+    width: 250px;
+  }
+  .slider-image
+  {
+    width: 250px;
+  }
+  aside > .conteneur-header-com
+  {
+    flex-wrap: wrap;
+  }
+  aside > .conteneur-header-com > .nbCom
+  {
+    width: 100%;
+    padding-left: 0;
+  }
+  aside > .conteneur-header-com > .nbCom > h3
+  {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 20px;
+  }
+  aside > .conteneur-header-com
+  {
+    margin-top: 0;
+  }
+  aside > .conteneur-header-com > .social
+  {
+    padding-right: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+  }
+  .ajouter-com
+  {
+    margin-top: 25px;
+  }
+  footer
+  {
+    flex-wrap: wrap;
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+  footer > .portrait
+  {
+    width: 100%;
+    margin: 0;
+  }
+  footer > .biographie
+  {
+    width: 100%;
+    margin-top: 15px;
+  }
+  footer > .biographie > p
+  {
+    text-align: justify;
+    text-align-last: center;
+  }
+}
